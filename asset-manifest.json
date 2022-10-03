@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d559079.css",
+    "main.js": "/static/js/main.47d34edc.js",
+    "static/media/Gilroy-UltraLight.ttf": "/static/media/Gilroy-UltraLight.6c356bf421a0b34d2b76.ttf",
+    "static/media/Gilroy-Light.ttf": "/static/media/Gilroy-Light.0ac7c2f9cb59ea1ba11c.ttf",
+    "static/media/Gilroy-Thin.ttf": "/static/media/Gilroy-Thin.fc813b757bc09eb509dc.ttf",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Regular.ttf": "/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Gilroy-Semibold.ttf": "/static/media/Gilroy-Semibold.41fa36c3c8e966b35423.ttf",
+    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.901a60fc2835c74fba67.ttf",
+    "static/media/Gilroy-Black.ttf": "/static/media/Gilroy-Black.4628979a4dac24916ba7.ttf",
+    "static/media/Gilroy-Extrabold.ttf": "/static/media/Gilroy-Extrabold.92e435f7fae6070d73bb.ttf",
+    "static/media/test-img-big.png": "/static/media/test-img-big.7bc099df978fde4ab8b4.png",
+    "static/media/sidebar-3.svg": "/static/media/sidebar-3.e01825c844cd03f64392e3995dd779a2.svg",
+    "static/media/sidebar-7.svg": "/static/media/sidebar-7.82826bccdc9e69c408cc3a687464d74f.svg",
+    "static/media/sidebar-5.svg": "/static/media/sidebar-5.1fb6d4933cb6f117f0275a406d57db6d.svg",
+    "static/media/sidebar-1.svg": "/static/media/sidebar-1.df9e72afc94096a60796a7926400f1de.svg",
+    "static/media/three-dots.svg": "/static/media/three-dots.056cc140d2d5c3fb2b3ddd07e0e16176.svg",
+    "static/media/sidebar-8.svg": "/static/media/sidebar-8.4a19d5e383c716fa9a5f9412afb86897.svg",
+    "static/media/bell.svg": "/static/media/bell.0cfcead840227ad929251fe3f1fe61ff.svg",
+    "static/media/sidebar-6.svg": "/static/media/sidebar-6.42756bf3a461ca0219fe4ab1d3336138.svg",
+    "index.html": "/index.html",
+    "static/media/sidebar-2.svg": "/static/media/sidebar-2.0c4ebdef7d1f7dac8fc2d2c77fe4669c.svg",
+    "static/media/search.svg": "/static/media/search.dd9dde9c73fae91520ae21b279dc6c5e.svg",
+    "static/media/sidebar-4.svg": "/static/media/sidebar-4.12109f9819b98e89a7aa7f1d88dc5e41.svg",
+    "static/media/textarea-resize.svg": "/static/media/textarea-resize.38a132bdeb2084a2d7ab.svg",
+    "main.0d559079.css.map": "/static/css/main.0d559079.css.map",
+    "main.47d34edc.js.map": "/static/js/main.47d34edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d559079.css",
+    "static/js/main.47d34edc.js"
+  ]
+}
